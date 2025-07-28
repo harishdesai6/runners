@@ -1,0 +1,6 @@
+# Self hosted runners !!
+
+### What Are Self-Hosted Runners in GitHub Actions?
+
+Self-hosted runners are machines (like your laptop, a server, or a cloud VM) that you provide and manage, and that can execute GitHub Actions workflows instead of using GitHub’s default hosted runners.They allow you to run CI/CD jobs on your own infrastructure, giving you more control over the environment, performance, security, and cost.
+
